@@ -53,7 +53,7 @@ else
 Console.WriteLine("Press Enter to continue...");
 Console.ReadLine();
 Console.WriteLine("Time for question number two!");
-Console.WriteLine("Now, how many robins have their been?");
+Console.WriteLine("Now, how many robins have there been?");
 Console.WriteLine("A: 1");
 Console.WriteLine("B: 4");
 Console.WriteLine("C: 5 ");
