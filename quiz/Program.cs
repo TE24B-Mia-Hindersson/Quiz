@@ -90,7 +90,7 @@ Console.WriteLine("Press Enter to continue...");
 Console.ReadLine();
 Console.WriteLine("Time for question number three!");
 Console.WriteLine("Now, what are their names?");
-Console.WriteLine("A: robin 1, robin 2, robin 3, robin 4 and robin 5");
+Console.WriteLine("A: Robin 1, Robin 2, Robin 3, Robin 4 and Robin 5");
 Console.WriteLine("B: Damian Wayne, Dick Grayson, Jason Todd, Tim Drake and Stephanie Brown");
 Console.WriteLine("C: Jervis Tetch, Waylon James, Victor Fries, Edward Nygma and Pamela Isley");
 string svar2 = Console.ReadLine().Trim().ToLower();
@@ -161,9 +161,9 @@ Console.ReadLine();
 Console.WriteLine("Time for question number five!");
 Console.WriteLine("Last but not least, In the game arkham knight you are able to capture villians in your batmobile..");
 Console.WriteLine("which is one of the first ones you capture? ");
-Console.WriteLine("A:The penguin ");
-Console.WriteLine("B:Firefly");
-Console.WriteLine("C:Poison Ivy ");
+Console.WriteLine("A: The penguin ");
+Console.WriteLine("B: Firefly");
+Console.WriteLine("C: Poison Ivy ");
 string svar5 = Console.ReadLine().Trim().ToLower();
 if (svar5 == "c")
 {
