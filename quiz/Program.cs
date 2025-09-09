@@ -30,7 +30,6 @@ if (svar1 == "a")
     Console.WriteLine("Great start!");
     Console.ResetColor();
 }
-
 else if (svar1 == "b")
 {
     Console.ForegroundColor = ConsoleColor.Red;
@@ -39,8 +38,6 @@ else if (svar1 == "b")
     Console.WriteLine("oh no! hopefully you get it right next time..");
     Console.ResetColor();
 }
-
-
 else
 {
     Console.ForegroundColor = ConsoleColor.Red;
@@ -226,7 +223,7 @@ else
 {
     Console.ForegroundColor = ConsoleColor.DarkRed;
     Console.WriteLine("wow.. uh");
-   
+
 }
 
 Console.ReadLine();
