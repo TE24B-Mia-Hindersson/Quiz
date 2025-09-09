@@ -34,7 +34,7 @@ else if (svar1 == "b")
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine("oh no! hopefully you get it right next time..");
     Console.ResetColor();
 }
@@ -42,7 +42,7 @@ else
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine("oops! good luck on the next question");
     Console.ResetColor();
 }
@@ -70,7 +70,7 @@ else if (svar3 == "b")
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine("Better luck next time..");
     Console.ResetColor();
 }
@@ -78,7 +78,7 @@ else
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine("Better luck next time..");
     Console.ResetColor();
 }
@@ -106,7 +106,7 @@ else if (svar2 == "c")
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine("Better luck next time..");
     Console.ResetColor();
 }
@@ -114,7 +114,7 @@ else
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine(":( maybe youll get it right next time!");
     Console.ResetColor();
 }
@@ -140,7 +140,7 @@ else if (svar4 == "c")
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine("That sucks! ");
     Console.ResetColor();
 
@@ -149,7 +149,7 @@ else
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine("Do better?");
     Console.ResetColor();
 }
@@ -177,7 +177,7 @@ else if (svar5 == "b")
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine("Darn it!");
     Console.ResetColor();
 }
@@ -185,7 +185,7 @@ else
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Oh no, that was incorrect!");
-    Console.WriteLine("0 point..");
+    Console.WriteLine("0 points..");
     Console.WriteLine(":(");
     Console.ResetColor();
 }
