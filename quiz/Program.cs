@@ -14,7 +14,7 @@
 
 int hitpoints = 0;
 Console.WriteLine("Welcome to my quiz about Batman!");
-Console.WriteLine("Can you get all 4 right?");
+Console.WriteLine("Can you get all 5 right?");
 Console.WriteLine("Time for the first question!");
 Console.WriteLine("To start, what is the name of the alley where Bruce Waynes (Batmans) parents were killed?");
 Console.WriteLine("A: Crime alley ");
